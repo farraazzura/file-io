@@ -9,7 +9,7 @@ pantun = file_pantun.readlines()
 
 # cetak isi file dengan perulangan
 # for teks in puisi:
-#   print(teks) rhhrthrthryry
+#   print(teks)
 
 # baca isi berdasarkan baris file satu baris teratas
 # pantun = file_pantun.readline()
@@ -21,7 +21,7 @@ pantun = file_pantun.readlines()
 print(pantun[0] )
 
 # cetak baris kedua
-print(pantun[1] )
+print(pantun[2] )
 
 # tutup file
 file_pantun.close( )
